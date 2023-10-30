@@ -1,0 +1,16 @@
+<form method="post" action="process.php">
+<input type="checkbox" name="vehicle[]" value="Bike">I have a bike
+<br>
+<input type="checkbox" name="vehicle[]" value="Cycle">I have a Cycle
+<br>
+<input type="checkbox" name="vehicle[]" value="Car">I have a car 
+<br><br>
+<input type="submit" value="Submit">
+</form> 
+
+$checkbox1 = $_POST['vehicle'];
+    $chk="";  
+    foreach($checkbox1 as $chk1)  
+       {  
+          $chk.= $chk1.",";  
+       }  

@@ -1,0 +1,47 @@
+
+[09-Sep-2023 02:57:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'labanese_root'@'180.235.148.66' (using password: YES) in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php:15
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/system/sistem.php(15): mysqli_connect()
+#1 /home/labanase/public_html/umkm.labanasem.id/index.php(3): dbConnect()
+#2 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php on line 15
+[09-Sep-2023 03:00:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'labanese_root'@'180.235.148.66' (using password: NO) in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php:15
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/system/sistem.php(15): mysqli_connect()
+#1 /home/labanase/public_html/umkm.labanasem.id/index.php(3): dbConnect()
+#2 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php on line 15
+[09-Sep-2023 03:01:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'labanese_root'@'180.235.148.66' (using password: NO) in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php:15
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/system/sistem.php(15): mysqli_connect()
+#1 /home/labanase/public_html/umkm.labanasem.id/index.php(3): dbConnect()
+#2 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php on line 15
+[09-Sep-2023 03:02:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'labanese_root'@'180.235.148.66' (using password: NO) in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php:15
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/system/sistem.php(15): mysqli_connect()
+#1 /home/labanase/public_html/umkm.labanasem.id/index.php(3): dbConnect()
+#2 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php on line 15
+[09-Sep-2023 03:03:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'labanese_root'@'180.235.148.66' (using password: NO) in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php:15
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/system/sistem.php(15): mysqli_connect()
+#1 /home/labanase/public_html/umkm.labanasem.id/index.php(3): dbConnect()
+#2 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php on line 15
+[09-Sep-2023 03:04:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'labanese_root'@'180.235.148.66' (using password: NO) in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php:15
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/system/sistem.php(15): mysqli_connect()
+#1 /home/labanase/public_html/umkm.labanasem.id/index.php(3): dbConnect()
+#2 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/system/sistem.php on line 15
+[09-Sep-2023 03:17:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'labanase_sistem_desa.produk' doesn't exist in /home/labanase/public_html/umkm.labanasem.id/index.php:28
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/index.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/index.php on line 28
+[18-Sep-2023 22:07:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'lastupdate' doesn't have a default value in /home/labanase/public_html/umkm.labanasem.id/register2.php:54
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/register2.php(54): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/register2.php on line 54

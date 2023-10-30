@@ -1,0 +1,47 @@
+body {
+  min-height: 200vh;
+}
+
+a {
+  cursor: pointer;
+}
+.custab
+{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+}
+.custab:hover
+{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+}
+.h4-bg{
+    margin: 10px 0;
+	text-align:left;
+}
+.h4-bg-white{
+	width:100%;
+	color:#fff;
+    padding: 10px 30px;
+}
+.div-bg{
+    width: 100%;
+	border:solid 1px transparent;
+}
+.sec-pad{
+    width: 100%;
+	padding-left:1px;
+}
+.control-label
+{
+	font-weight:bold;
+	font-size:12pt;
+	color:#289dcc;
+}
+     $('#datetimepicker12').datetimepicker({
+                defaultDate: new Date(),
+                format: 'YYYY-MM-DD'
+    });
+	
+	

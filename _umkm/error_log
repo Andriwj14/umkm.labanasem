@@ -1,0 +1,74 @@
+[09-Sep-2023 11:59:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'useragent' at row 1 in /home/labanase/public_html/umkm.labanasem.id/_umkm/_login.php:49
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/_login.php(49): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/_login.php on line 49
+[09-Sep-2023 12:22:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home/labanase/public_html/umkm.labanasem.id/_umkm/logout.php:3
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/logout.php(3): session_unset()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/logout.php on line 3
+[09-Sep-2023 12:28:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'labanase_umkm2.series' doesn't exist in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php:16
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php on line 16
+[19-Sep-2023 01:19:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'labanase_umkm2.series' doesn't exist in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php:16
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php on line 16
+[19-Sep-2023 01:51:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'labanase_umkm2.series' doesn't exist in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php:16
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php on line 16
+[19-Sep-2023 01:59:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'labanase_umkm2.series' doesn't exist in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php:16
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php on line 16
+[19-Sep-2023 02:07:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'labanase_umkm2.series' doesn't exist in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php:16
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php on line 16
+[19-Sep-2023 02:32:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '$' in 'where clause' in /home/labanase/public_html/umkm.labanasem.id/_umkm/produk.php:58
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/produk.php(58): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/produk.php on line 58
+[19-Sep-2023 02:34:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'labanase_umkm2.series' doesn't exist in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php:16
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php on line 16
+[19-Sep-2023 02:40:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'umkmid' doesn't have a default value in /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanaddcontrol.php:39
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanaddcontrol.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanaddcontrol.php on line 39
+[19-Sep-2023 02:41:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'umkmid' doesn't have a default value in /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanaddcontrol.php:39
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanaddcontrol.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanaddcontrol.php on line 39
+[19-Sep-2023 02:44:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'keterangan' doesn't have a default value in /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanaddcontrol.php:40
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanaddcontrol.php(40): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanaddcontrol.php on line 40
+[19-Sep-2023 02:51:06 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/labanase/public_html/umkm.labanasem.id/_umkm/laporanview.php on line 87
+[19-Sep-2023 03:07:14 UTC] PHP Warning:  Undefined variable $disabled in /home/labanase/public_html/umkm.labanasem.id/_umkm/prev_profile.php on line 199
+[19-Sep-2023 03:09:09 UTC] PHP Warning:  Undefined variable $disabled in /home/labanase/public_html/umkm.labanasem.id/_umkm/prev_profile.php on line 199
+[19-Sep-2023 07:18:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'labanase_umkm2.series' doesn't exist in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php:16
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php on line 16
+[19-Sep-2023 07:19:14 UTC] PHP Warning:  Undefined variable $disabled in /home/labanase/public_html/umkm.labanasem.id/_umkm/prev_profile.php on line 199
+[19-Sep-2023 07:19:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'labanase_umkm2.series' doesn't exist in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php:16
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_umkm/getautonum.php on line 16

@@ -1,0 +1,82 @@
+[15-Sep-2023 01:57:44 UTC] PHP Warning:  Undefined variable $fjudul in /home/labanase/public_html/umkm.labanasem.id/_admin/eventeditform.php on line 157
+[15-Sep-2023 01:58:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'lastupdate' doesn't have a default value in /home/labanase/public_html/umkm.labanasem.id/_admin/eventeditcontrol.php:39
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/eventeditcontrol.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/eventeditcontrol.php on line 39
+[15-Sep-2023 01:59:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php:3
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php(3): session_unset()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php on line 3
+[18-Sep-2023 22:36:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php:3
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php(3): session_unset()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php on line 3
+[18-Sep-2023 22:52:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php:3
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php(3): session_unset()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php on line 3
+[18-Sep-2023 22:56:17 UTC] PHP Warning:  Undefined array key "LAST_ACTIVITY" in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php on line 3
+[18-Sep-2023 22:56:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php:3
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php(3): session_unset()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php on line 3
+[19-Sep-2023 01:16:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php:3
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php(3): session_unset()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php on line 3
+[19-Sep-2023 01:34:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/labanase/public_html/umkm.labanasem.id/_admin/change_password.php on line 51
+[19-Sep-2023 01:46:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php:3
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php(3): session_unset()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php on line 3
+[19-Sep-2023 01:46:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php:3
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php(3): session_unset()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php on line 3
+[19-Sep-2023 01:50:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: session_unset() expects exactly 0 arguments, 1 given in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php:3
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php(3): session_unset()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/logout.php on line 3
+[19-Sep-2023 02:56:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'newscategory' doesn't have a default value in /home/labanase/public_html/umkm.labanasem.id/_admin/newsaddcontrol.php:75
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/newsaddcontrol.php(75): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/newsaddcontrol.php on line 75
+[19-Sep-2023 03:00:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'lastupdate' doesn't have a default value in /home/labanase/public_html/umkm.labanasem.id/_admin/newsaddcontrol.php:75
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/newsaddcontrol.php(75): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/newsaddcontrol.php on line 75
+[19-Sep-2023 03:10:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'lastupdate' doesn't have a default value in /home/labanase/public_html/umkm.labanasem.id/_admin/newsaddcontrol.php:75
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/newsaddcontrol.php(75): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/newsaddcontrol.php on line 75
+[19-Sep-2023 03:11:36 UTC] PHP Warning:  Undefined variable $fphoto in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditform.php on line 110
+[19-Sep-2023 03:11:36 UTC] PHP Warning:  Undefined variable $fsubject in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditform.php on line 115
+[19-Sep-2023 03:11:36 UTC] PHP Warning:  Undefined variable $fsdesc in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditform.php on line 121
+[19-Sep-2023 03:11:36 UTC] PHP Warning:  Undefined variable $fdesc in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditform.php on line 127
+[19-Sep-2023 03:11:36 UTC] PHP Warning:  Undefined variable $fphoto in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditform.php on line 133
+[19-Sep-2023 03:12:23 UTC] PHP Warning:  Undefined array key "frm_type" in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditcontrol.php on line 10
+[19-Sep-2023 03:12:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'newsshortdesc' at row 1 in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditcontrol.php:78
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/newseditcontrol.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditcontrol.php on line 78
+[19-Sep-2023 03:13:18 UTC] PHP Warning:  Undefined array key "frm_type" in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditcontrol.php on line 10
+[19-Sep-2023 03:13:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'newsshortdesc' at row 1 in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditcontrol.php:78
+Stack trace:
+#0 /home/labanase/public_html/umkm.labanasem.id/_admin/newseditcontrol.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/labanase/public_html/umkm.labanasem.id/_admin/newseditcontrol.php on line 78
+[19-Sep-2023 03:14:19 UTC] PHP Warning:  Undefined variable $fjudul in /home/labanase/public_html/umkm.labanasem.id/_admin/eventeditform.php on line 157
+[19-Sep-2023 07:37:56 UTC] PHP Warning:  Undefined variable $fjudul in /home/labanase/public_html/umkm.labanasem.id/_admin/eventeditform.php on line 157
